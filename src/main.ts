@@ -1,4 +1,3 @@
-import { useLocalStorage } from "@vueuse/core";
 import { createApp } from "vue";
 
 // Vue Router
