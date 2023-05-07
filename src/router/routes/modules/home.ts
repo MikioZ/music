@@ -6,16 +6,6 @@ const home = [{
     title: "Home",
   },
 },
-{
-  path: "/hero",
-  name: "Hero",
-  component: () => import("~/views/home/components/Hero.vue"),
-},
-{
-  path: "/StoreTest",
-  name: "StoreTest",
-  component: () => import("~/views/home/components/StoreTest.vue"),
-},
 ];
 
 export default home;
